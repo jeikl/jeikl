@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Country-China_🇨🇳-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Country-China_%F0%9F%87%A8%F0%9F%87%B3-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Experience-10+_Years-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Role-System_Architect_%2F_AI_Agent_Developer-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Rust_%7C_OpenClaw_%7C_DevOps_%7C_Reverse-green?style=flat-square" />
