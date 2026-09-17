@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/jeikl">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=🦀+JeikCode%3A+High-Performance+Autonomous+AI+Coding+Agent+(Rust);🐾+JeikClaw+%26+DingTalk+OpenClaw+Connector+Core+Maintainer;⚡+Antigravity-Manager+%26+grok2api+Co-Creator+%26+Contributor;🇨🇳+10+Years+Software+Engineer+%26+System+Architect+from+China;Rust+%7C+Go+%7C+TypeScript+%7C+Python+%7C+Java+%7C+Reverse+%26+DevOps;Welcome+to+my+open-source+hub+%26+technical+space+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=JeikCode%3A+High-Performance+Autonomous+AI+Coding+Agent;JeikClaw+%26+DingTalk+OpenClaw+Connector+Maintainer;Antigravity-Manager+%26+grok2api+Co-Creator;10+Years+Software+Engineer+%26+Architect+from+China;Rust+%7C+Go+%7C+TypeScript+%7C+Python+%7C+Java+%7C+Reverse+%26+DevOps;Welcome+to+my+open-source+hub+%26+technical+space" alt="Typing SVG" />
   </a>
 </p>
 
@@ -84,8 +84,12 @@
 ### 📊 实时数据统计 / GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeikl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" height="165" alt="Jeikl's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeikl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeikl&theme=tokyonight" alt="Jeikl Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeikl&theme=tokyonight" alt="Jeikl GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeikl&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
