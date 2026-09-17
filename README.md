@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/jeikl">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=JeikCode%3A+High-Performance+Autonomous+AI+Coding+Agent;JeikClaw+%26+DingTalk+OpenClaw+Connector+Maintainer;Antigravity-Manager+%26+grok2api+Co-Creator;10+Years+Software+Engineer+%26+Architect+from+China;Rust+%7C+Go+%7C+TypeScript+%7C+Python+%7C+Java+%7C+Reverse+%26+DevOps;Welcome+to+my+open-source+hub+%26+technical+space" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=JeikCode%3A+Autonomous+AI+Coding+Agent+(Rust);JeikClaw+%26+DingTalk+OpenClaw+Connector+Maintainer;Antigravity-Manager+(31k%2B+%E2%AD%90)+Co-Creator;10%2B+Years+Engineer+%26+Architect+from+China;Rust+%7C+Go+%7C+TypeScript+%7C+Python+%7C+Java;Welcome+to+my+open-source+hub+%26+blog" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,60 +19,56 @@
 
 ### 🔥 核心开源代表作 / Core Flagship Projects
 
-> 💡 **专注系统底层性能、AI Agent 终端自主化与核心开发者生态建设**
-
-| 项目 | 技术栈 | 核心特色与介绍 |
+| 项目 / Project | 技术栈 / Stack | 核心特色 / Highlights |
 | :--- | :--- | :--- |
-| 🦀 [**JeikCode**](https://github.com/jeikl/JeikCode) | `Rust` `Tree-sitter` `AI Agent` | **极速、自主的终端开源 AI Coding Agent**<br/>Rust 强力驱动 · AST 微结构精准检索 · 稳定 KV Cache 优化 · 工业级五级工具自愈体系 |
-| 🐾 [**JeikClaw**](https://github.com/jeikl/JeikClaw-OpenClawFixedVersion) | `OpenClaw` `Core Fix` `Workflow` | **JeikClaw - OpenClaw 增强与稳定性修复分支**<br/>针对生产瓶颈深度重构与稳定性增强，提供关键自研功能扩展与底层逻辑补丁 |
-| 🔌 [**dingtalk-openclaw-connector**](https://github.com/jeikl/dingtalk-openclaw-connector-fix-Community) | `TypeScript` `DingTalk` `OpenClaw` | **钉钉 OpenClaw 渠道社区修复版** (`@jeik/dingtalk-connector`)<br/>支持本地图 `/mnt`、`messageImageMd` 渲染加速与长效维护，打破企业 IM 协同壁垒 |
-| 💬 [**JeikChat**](https://github.com/jeikl/JeikChat) | `LangChain` `RAG` `Vue/React` | **全栈全能知识库智能 Bot**<br/>支持多模型路由调度、语音识别、多模态解析及企业级文档 RAG 向量检索 |
+| 🦀 [**JeikCode**](https://github.com/jeikl/JeikCode) | `Rust` `AI Agent` `AST` | **极速终端自主 AI Coding Agent / Autonomous AI Coding Agent**<br/>Rust 驱动 · AST 微结构检索 · 稳定 KV Cache · 五级工具自愈 / Rust-powered, AST retrieval & 5-level self-healing |
+| 🐾 [**JeikClaw**](https://github.com/jeikl/JeikClaw-OpenClawFixedVersion) | `OpenClaw` `Core Fix` | **JeikClaw - OpenClaw 增强修复版 / Enhanced & Fixed Branch**<br/>针对生产瓶颈深度重构与稳定性优化 / Stability optimization & core enhancements |
+| 🔌 [**dingtalk-openclaw-connector**](https://github.com/jeikl/dingtalk-openclaw-connector-fix-Community) | `TypeScript` `DingTalk` | **钉钉 OpenClaw 渠道社区修复版 / DingTalk Connector Fix**<br/>`@jeik/dingtalk-connector` 支持本地图与极速企业协同 / Local image `/mnt` support & enterprise IM integration |
+| 💬 [**JeikChat**](https://github.com/jeikl/JeikChat) | `LangChain` `RAG` `Vue/React` | **全栈全能知识库智能 Bot / Full-Stack AI Knowledge Bot**<br/>多模型调度路由与企业级文档 RAG 向量检索 / Multi-model routing & enterprise RAG knowledge base |
 
 ---
 
 ### 🤝 优秀共创与贡献项目 / Co-created & Contributed Projects
 
-> 🌟 **积极拥抱开源生态，与优秀开发者并肩共创高价值实用工具与网关基础设施**
-
-| 项目 | 角色与技术栈 | 项目说明与贡献点 |
-| :--- | :--- | :--- |
-| ⚡ [**Antigravity-Manager**](https://github.com/jeikl/Antigravity-Manager) | **Co-Creator**<br/>`Tauri v2` `React` `Rust` | **专业的 Antigravity 账号管理与无缝切换利器**<br/>深度参与功能共创，打造一键无缝账号切换与轻量跨平台桌面端体验，助力高效流转 |
-| 🌐 [**grok2api**](https://github.com/jeikl/grok2api) | **Contributor**<br/>`Python` `API Gateway` `Reverse` | **多账号高并发代理网关**<br/>支持 Grok Build、Grok Web 与 Grok Console 的多账号并发轮询调度与高可用代理流转 |
+| 官方项目 / Official Repo | 角色 / Role | 官方 Stars / Official Stars | 简介 / Description |
+| :--- | :--- | :--- | :--- |
+| ⚡ [**lbjlaq/Antigravity-Manager**](https://github.com/lbjlaq/Antigravity-Manager) | **Co-Creator**<br/>`Tauri v2` `React` `Rust` | [![Stars](https://img.shields.io/github/stars/lbjlaq/Antigravity-Manager?style=flat-square&logo=github)](https://github.com/lbjlaq/Antigravity-Manager) | **专业的 Antigravity 账号管理与切换利器 / Professional Account Switcher**<br/>深度参与功能共创，一键无缝账号切换 / Seamless one-click account switching |
+| 🌐 [**chenyme/grok2api**](https://github.com/chenyme/grok2api) | **Contributor**<br/>`Python` `Reverse` `Gateway` | [![Stars](https://img.shields.io/github/stars/chenyme/grok2api?style=flat-square&logo=github)](https://github.com/chenyme/grok2api) | **多账号高并发代理网关 / Multi-Account API Gateway**<br/>支持 Grok Build / Web / Console 多账号并发轮询调度 / Multi-account load balancing & proxy |
 
 ---
 
 ### 👨‍💻 关于我 / About Me
 
-- 🇨🇳 **坐标**：中国 (Based in China)。
-- 💻 **10 年研发老兵**：拥有十年大型系统架构与工程落地经验，跨越底层内核、服务端高并发、安全逆向到现代 AI 应用。
-- 🦀 **底层性能与系统级编程**：主力语言为 **Rust** 与 **Go**，擅长构建低延迟、高吞吐、强内存安全的关键业务架构。
-- 🤖 **AI Native 与 Agent 落地**：深度探索大模型能力边界，打造自主代码智能体与 Agent 自愈闭环系统。
-- 🔌 **企业生态与 OpenClaw 长期维护**：深耕并长期维护钉钉渠道插件与 OpenClaw 系列工具链，助力 AI 落地真实工作流。
-- 🛡️ **安全与逆向工程**：具备深厚的协议反编译、动态 Hook、内存分析与底层逆向经验。
-- ☸️ **云原生与现代化运维**：熟悉 Linux 系统深度调优、Docker/K8s 容器编排与全自动化 CI/CD 流水线。
-- 📝 **技术博客与沉淀**：持续沉淀工程与架构思考，欢迎同行交流切磋！
+- 🇨🇳 **坐标 / Location**: 中国 / Based in China
+- 💼 **经验 / Experience**: 10 年架构与全栈研发 / 10+ years Software Engineer & System Architect
+- 🦀 **系统底层 / Systems**: 主力使用 **Rust** & **Go**，专注高性能、低延迟与高并发架构 / Focus on **Rust** & **Go**, high concurrency & low latency
+- 🤖 **AI Native**: 自主 Coding Agent (`JeikCode`) 与 RAG 智能体落地 / Autonomous AI Coding Agents & LLM application engineering
+- 🔌 **开源生态 / Open Source**: 长期维护钉钉 OpenClaw 插件与相关工具链 / Long-term maintainer of DingTalk OpenClaw connector & AI toolchains
+- 🛡️ **安全逆向 / Security**: 协议分析、动态 Hook 与底层逆向 / Reverse engineering, binary analysis & dynamic hooking
+- ☸️ **云原生 / DevOps**: Linux 系统深度调优、Docker / K8s 与自动化 CI/CD / Linux internals, Kubernetes orchestration & DevOps
+- 📝 **技术博客 / Blog**: 欢迎访问 [我的博客 / My Blog](https://github.com/jeikl)，期待技术交流 / Welcome to connect and exchange ideas!
 
 ---
 
 ### 🛠️ 技能全景矩阵 / Tech Stack
 
 <p align="center">
-  <b>核心系统与应用语言</b><br/>
+  <b>核心编程语言 / Languages</b><br/>
   <img src="https://skillicons.dev/icons?i=rust,go,ts,js,python,java,cpp,bash&perline=8" />
 </p>
 
 <p align="center">
-  <b>现代化前端与客户端</b><br/>
+  <b>前端与桌面端 / Frontend & Desktop</b><br/>
   <img src="https://skillicons.dev/icons?i=tauri,react,vue,nextjs,vite,tailwind,nodejs,fastapi&perline=8" />
 </p>
 
 <p align="center">
-  <b>云原生架构、运维与基础设施</b><br/>
+  <b>云原生与运维 / DevOps & Infra</b><br/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,githubactions,git,postgres,redis&perline=8" />
 </p>
 
 <p align="center">
-  <b>安全分析 & 逆向工程 (Reverse Engineering)</b><br/>
+  <b>安全分析 & 逆向工程 / Reverse Engineering & Security</b><br/>
   <img src="https://img.shields.io/badge/IDA_Pro-Binary_Analysis-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Ghidra-Decompilation-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Frida-Dynamic_Hook-orange?style=for-the-badge" />
