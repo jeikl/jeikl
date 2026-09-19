@@ -21,7 +21,7 @@
 
 | 项目 / Project | 技术栈 / Stack | 核心特色 / Highlights |
 | :--- | :--- | :--- |
-| 🦀 [**JeikCode**](https://github.com/jeikl/JeikCode) | `Rust` `AI Agent` `AST` | **极速终端自主 AI Coding Agent / Autonomous AI Coding Agent**<br/>Rust 驱动 · AST 微结构检索 · 稳定 KV Cache · 五级工具自愈 / Rust-powered, AST retrieval & 5-level self-healing |
+| 🦀 [**JeikCode**](https://github.com/jeikcode/JeikCode) | `Rust` `AI Agent` `AST` | **极速终端自主 AI Coding Agent / Autonomous AI Coding Agent**<br/>Rust 驱动 · AST 微结构检索 · 稳定 KV Cache · 五级工具自愈 / Rust-powered, AST retrieval & 5-level self-healing |
 | 🐾 [**JeikClaw**](https://github.com/jeikl/JeikClaw-OpenClawFixedVersion) | `OpenClaw` `Core Fix` | **JeikClaw - OpenClaw 增强修复版 / Enhanced & Fixed Branch**<br/>针对生产瓶颈深度重构与稳定性优化 / Stability optimization & core enhancements |
 | 🔌 [**dingtalk-openclaw-connector**](https://github.com/jeikl/dingtalk-openclaw-connector-fix-Community) | `TypeScript` `DingTalk` | **钉钉 OpenClaw 渠道社区修复版 / DingTalk Connector Fix**<br/>`@jeik/dingtalk-connector` 支持本地图与极速企业协同 / Local image `/mnt` support & enterprise IM integration |
 | 💬 [**JeikChat**](https://github.com/jeikl/JeikChat) | `LangChain` `RAG` `Vue/React` | **全栈全能知识库智能 Bot / Full-Stack AI Knowledge Bot**<br/>多模型调度路由与企业级文档 RAG 向量检索 / Multi-model routing & enterprise RAG knowledge base |
