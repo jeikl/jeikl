@@ -14,9 +14,9 @@
 
 ---
 
-## 🔥 Jeik 系列 / Jeik Suite
+## 🔥 代表作 / Flagship
 
-> 自研工具链：从 AI Coding Agent、网页抓取，到 IM 协同与知识库问答。
+> 自研 Jeik 系列工具链 · 深度参与的开源项目
 
 | 项目 | 语言 | 简介 |
 | :--- | :--- | :--- |
@@ -25,15 +25,8 @@
 | 🐾 [**JeikClaw**](https://github.com/jeikl/JeikClaw-OpenClawFixedVersion) | TypeScript | OpenClaw 增强修复版，针对生产瓶颈重构，专注稳定性优化 |
 | 💬 [**JeikChat**](https://github.com/jeikl/JeikChat) | Python | 全栈知识库智能 Bot — 多模型调度路由 + 企业级文档 RAG |
 | 🔌 [**@jeik/dingtalk-connector**](https://github.com/jeikl/dingtalk-openclaw-connector-fix-Community) | TypeScript | 钉钉 OpenClaw 渠道社区修复版，支持本地图片与企业 IM 协同 |
-
----
-
-## 🤝 共创与贡献 / Collaborations
-
-| 项目 | 角色 | Stars |
-| :--- | :--- | :--- |
-| ⚡ [**lbjlaq/Antigravity-Manager**](https://github.com/lbjlaq/Antigravity-Manager) | Co-Creator · Tauri v2 / React / Rust | [![Stars](https://img.shields.io/github/stars/lbjlaq/Antigravity-Manager?style=flat-square&logo=github)](https://github.com/lbjlaq/Antigravity-Manager) |
-| 🌐 [**chenyme/grok2api**](https://github.com/chenyme/grok2api) | Contributor · Go / 逆向 / 网关 | [![Stars](https://img.shields.io/github/stars/chenyme/grok2api?style=flat-square&logo=github)](https://github.com/chenyme/grok2api) |
+| ⚡ [**lbjlaq/Antigravity-Manager**](https://github.com/lbjlaq/Antigravity-Manager) `Co-Creator` [![Stars](https://img.shields.io/github/stars/lbjlaq/Antigravity-Manager?style=flat-square&logo=github)](https://github.com/lbjlaq/Antigravity-Manager) | Rust / TS | 专业的 Antigravity 账号管理与切换工具（Tauri v2 + React），一键无缝切换 |
+| 🌐 [**chenyme/grok2api**](https://github.com/chenyme/grok2api) `Contributor` [![Stars](https://img.shields.io/github/stars/chenyme/grok2api?style=flat-square&logo=github)](https://github.com/chenyme/grok2api) | Go | 多账号高并发代理网关，支持 Grok Build / Web / Console 并发轮询调度 |
 
 ---
 
