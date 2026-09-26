@@ -13,28 +13,28 @@
 
 ---
 
-## 👨‍💻 关于我 / About Me
+## 👨‍💻 About Me
 
-- 💼 **职业 / Role** — AI Agent Developer · 全栈开发工程师
-- ⏳ **经验 / Experience** — 10 年开发经验 · 4 年逆向工程
-- 🛠️ **技术栈 / Stack** — Python · Rust · Go · Java · 易语言 · TypeScript · JavaScript
-- 🔍 **专长 / Expertise** — 网络逆向 · 网络工程
+- 💼 **Role** — AI Agent Developer · Full-Stack Engineer
+- ⏳ **Experience** — 10 years software development · 4 years reverse engineering
+- 🛠️ **Stack** — Python · Rust · Go · Java · EPL (Easy Programming Language) · TypeScript · JavaScript
+- 🔍 **Expertise** — Network reverse engineering · Network engineering
 
 ---
 
-## 🔥 代表作 / Flagship
+## 🔥 Flagship Projects
 
-> 自研 Jeik 系列工具链 · 深度参与的开源项目
+> My own Jeik toolchain · Open-source projects I co-create
 
-| 项目 | 语言 | 简介 |
+| Project | Language | Description |
 | :--- | :--- | :--- |
-| ⚡ [**lbjlaq/Antigravity-Manager**](https://github.com/lbjlaq/Antigravity-Manager) `Co-Creator` [![Stars](https://img.shields.io/github/stars/lbjlaq/Antigravity-Manager?style=flat-square&logo=github)](https://github.com/lbjlaq/Antigravity-Manager) | Rust / TS | 专业的 Antigravity 账号管理与切换工具（Tauri v2 + React），一键无缝切换 |
-| 🦀 [**JeikCode**](https://github.com/jeikcode/JeikCode) | Rust | 终端自主 AI Coding Agent — AST 微结构检索 · 稳定 KV Cache · 五级工具自愈 |
-| 🕷️ [**Jeik-Web-Fetch**](https://github.com/jeikl/Jeik-Web-Fetch) | Python | 高性能通用网页抓取引擎，多格式 Markdown 抽取 + 反爬绕过（Firecrawl 架构重构） |
-| 🐾 [**JeikClaw**](https://github.com/jeikl/JeikClaw-OpenClawFixedVersion) | TypeScript | OpenClaw 增强修复版，针对生产瓶颈重构，专注稳定性优化 |
-| 💬 [**JeikChat**](https://github.com/jeikl/JeikChat) | Python | 全栈知识库智能 Bot — 多模型调度路由 + 企业级文档 RAG |
-| 🔌 [**@jeik/dingtalk-connector**](https://github.com/jeikl/dingtalk-openclaw-connector-fix-Community) | TypeScript | 钉钉 OpenClaw 渠道社区修复版，支持本地图片与企业 IM 协同 |
-| 🌐 [**chenyme/grok2api**](https://github.com/chenyme/grok2api) `Contributor` [![Stars](https://img.shields.io/github/stars/chenyme/grok2api?style=flat-square&logo=github)](https://github.com/chenyme/grok2api) | Go | 多账号高并发代理网关，支持 Grok Build / Web / Console 并发轮询调度 |
+| ⚡ [**lbjlaq/Antigravity-Manager**](https://github.com/lbjlaq/Antigravity-Manager) `Co-Creator` [![Stars](https://img.shields.io/github/stars/lbjlaq/Antigravity-Manager?style=flat-square&logo=github)](https://github.com/lbjlaq/Antigravity-Manager) | Rust / TS | Professional Antigravity account manager & switcher (Tauri v2 + React), one-click seamless switching |
+| 🦀 [**JeikCode**](https://github.com/jeikcode/JeikCode) | Rust | Autonomous AI coding agent for the terminal — AST micro-structure retrieval, stable KV cache, 5-level tool self-healing |
+| 🕷️ [**Jeik-Web-Fetch**](https://github.com/jeikl/Jeik-Web-Fetch) | Python | High-performance universal web scraper — multi-format Markdown extraction & anti-bot bypass (Firecrawl architecture rebuilt) |
+| 🐾 [**JeikClaw**](https://github.com/jeikl/JeikClaw-OpenClawFixedVersion) | TypeScript | Enhanced & fixed OpenClaw branch — rebuilt against production bottlenecks for stability |
+| 💬 [**JeikChat**](https://github.com/jeikl/JeikChat) | Python | Full-stack AI knowledge-base bot — multi-model routing & enterprise document RAG |
+| 🔌 [**@jeik/dingtalk-connector**](https://github.com/jeikl/dingtalk-openclaw-connector-fix-Community) | TypeScript | Community-fixed DingTalk channel connector for OpenClaw — local image support & enterprise IM integration |
+| 🌐 [**chenyme/grok2api**](https://github.com/chenyme/grok2api) `Contributor` [![Stars](https://img.shields.io/github/stars/chenyme/grok2api?style=flat-square&logo=github)](https://github.com/chenyme/grok2api) | Go | Multi-account API gateway for Grok Build / Web / Console with concurrent round-robin scheduling |
 
 ---
 
@@ -51,7 +51,7 @@
 
 ---
 
-## 📬 联系 / Connect
+## 📬 Connect
 
 <p align="center">
   <a href="mailto:jeikliu@outlook.com"><img src="https://img.shields.io/badge/Email-jeikliu%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
