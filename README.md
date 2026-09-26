@@ -3,13 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=AI%20Agent%20Developer%20%26%20Full%2DStack%20Engineer;Rust%20%C2%B7%20Go%20%C2%B7%20Python%20%C2%B7%20Java%20%C2%B7%20TypeScript;Network%20Reverse%20Engineering%20%26%20Building%20the%20Jeik%20Suite" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=AI%20Agent%20Developer%20%26%20Full-Stack%20Engineer;Rust%20%C2%B7%20Go%20%C2%B7%20Python%20%C2%B7%20Java%20%C2%B7%20TypeScript;Network%20Reverse%20Engineering%20%26%20Building%20the%20Jeik%20Suite" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Based%20in-China-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Experience-10%2B%20Years-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Agent%20%C2%B7%20Full%2DStack%20%C2%B7%20Reverse-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Agent%20%C2%B7%20Full%20Stack%20%C2%B7%20Reverse-green?style=flat-square" />
 </p>
 
 ---
@@ -20,7 +19,6 @@
 - ⏳ **经验 / Experience** — 10 年开发经验 · 4 年逆向工程
 - 🛠️ **技术栈 / Stack** — Python · Rust · Go · Java · 易语言 · TypeScript · JavaScript
 - 🔍 **专长 / Expertise** — 网络逆向 · 网络工程
-- 📍 **坐标 / Location** — 中国
 
 ---
 
