@@ -3,14 +3,24 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=System%20Architect%20%26%20AI%20Agent%20Builder;Rust%20%C2%B7%20Go%20%C2%B7%20TypeScript%20%C2%B7%20Python;Building%20the%20Jeik%20Suite" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=AI%20Agent%20Developer%20%26%20Full%2DStack%20Engineer;Rust%20%C2%B7%20Go%20%C2%B7%20Python%20%C2%B7%20Java%20%C2%B7%20TypeScript;Network%20Reverse%20Engineering%20%26%20Building%20the%20Jeik%20Suite" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Based%20in-China-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Experience-10%2B%20Years-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Rust%20%C2%B7%20AI%20Agent%20%C2%B7%20DevOps-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Agent%20%C2%B7%20Full%2DStack%20%C2%B7%20Reverse-green?style=flat-square" />
 </p>
+
+---
+
+## 👨‍💻 关于我 / About Me
+
+- 💼 **职业 / Role** — AI Agent Developer · 全栈开发工程师
+- ⏳ **经验 / Experience** — 10 年开发经验 · 4 年逆向工程
+- 🛠️ **技术栈 / Stack** — Python · Rust · Go · Java · 易语言 · TypeScript · JavaScript
+- 🔍 **专长 / Expertise** — 网络逆向 · 网络工程
+- 📍 **坐标 / Location** — 中国
 
 ---
 
@@ -27,16 +37,6 @@
 | 🔌 [**@jeik/dingtalk-connector**](https://github.com/jeikl/dingtalk-openclaw-connector-fix-Community) | TypeScript | 钉钉 OpenClaw 渠道社区修复版，支持本地图片与企业 IM 协同 |
 | ⚡ [**lbjlaq/Antigravity-Manager**](https://github.com/lbjlaq/Antigravity-Manager) `Co-Creator` [![Stars](https://img.shields.io/github/stars/lbjlaq/Antigravity-Manager?style=flat-square&logo=github)](https://github.com/lbjlaq/Antigravity-Manager) | Rust / TS | 专业的 Antigravity 账号管理与切换工具（Tauri v2 + React），一键无缝切换 |
 | 🌐 [**chenyme/grok2api**](https://github.com/chenyme/grok2api) `Contributor` [![Stars](https://img.shields.io/github/stars/chenyme/grok2api?style=flat-square&logo=github)](https://github.com/chenyme/grok2api) | Go | 多账号高并发代理网关，支持 Grok Build / Web / Console 并发轮询调度 |
-
----
-
-## 👨‍💻 关于我 / About Me
-
-- 🦀 **主力语言** — Rust / Go，专注高性能、高并发与低延迟架构
-- 🤖 **AI 方向** — 自主 Coding Agent（JeikCode）与 RAG 应用工程化
-- 🛠️ **工程基建** — Linux 调优、Docker / K8s、自动化 CI/CD
-- 🔍 **安全逆向** — 协议分析、动态 Hook 与二进制分析
-- 📍 **坐标** — 中国，10 年研发与系统架构经验
 
 ---
 
