@@ -30,12 +30,12 @@
 
 | 项目 | 语言 | 简介 |
 | :--- | :--- | :--- |
+| ⚡ [**lbjlaq/Antigravity-Manager**](https://github.com/lbjlaq/Antigravity-Manager) `Co-Creator` [![Stars](https://img.shields.io/github/stars/lbjlaq/Antigravity-Manager?style=flat-square&logo=github)](https://github.com/lbjlaq/Antigravity-Manager) | Rust / TS | 专业的 Antigravity 账号管理与切换工具（Tauri v2 + React），一键无缝切换 |
 | 🦀 [**JeikCode**](https://github.com/jeikcode/JeikCode) | Rust | 终端自主 AI Coding Agent — AST 微结构检索 · 稳定 KV Cache · 五级工具自愈 |
 | 🕷️ [**Jeik-Web-Fetch**](https://github.com/jeikl/Jeik-Web-Fetch) | Python | 高性能通用网页抓取引擎，多格式 Markdown 抽取 + 反爬绕过（Firecrawl 架构重构） |
 | 🐾 [**JeikClaw**](https://github.com/jeikl/JeikClaw-OpenClawFixedVersion) | TypeScript | OpenClaw 增强修复版，针对生产瓶颈重构，专注稳定性优化 |
 | 💬 [**JeikChat**](https://github.com/jeikl/JeikChat) | Python | 全栈知识库智能 Bot — 多模型调度路由 + 企业级文档 RAG |
 | 🔌 [**@jeik/dingtalk-connector**](https://github.com/jeikl/dingtalk-openclaw-connector-fix-Community) | TypeScript | 钉钉 OpenClaw 渠道社区修复版，支持本地图片与企业 IM 协同 |
-| ⚡ [**lbjlaq/Antigravity-Manager**](https://github.com/lbjlaq/Antigravity-Manager) `Co-Creator` [![Stars](https://img.shields.io/github/stars/lbjlaq/Antigravity-Manager?style=flat-square&logo=github)](https://github.com/lbjlaq/Antigravity-Manager) | Rust / TS | 专业的 Antigravity 账号管理与切换工具（Tauri v2 + React），一键无缝切换 |
 | 🌐 [**chenyme/grok2api**](https://github.com/chenyme/grok2api) `Contributor` [![Stars](https://img.shields.io/github/stars/chenyme/grok2api?style=flat-square&logo=github)](https://github.com/chenyme/grok2api) | Go | 多账号高并发代理网关，支持 Grok Build / Web / Console 并发轮询调度 |
 
 ---
