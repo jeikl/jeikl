@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=System%20Architect%20%26%20AI%20Agent%20Builder;Rust%20%C2%B7%20Go%20%C2%B7%20TypeScript;Building%20JeikCode%20%26%20OpenClaw%20Toolchain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=System%20Architect%20%26%20AI%20Agent%20Builder;Rust%20%C2%B7%20Go%20%C2%B7%20TypeScript%20%C2%B7%20Python;Building%20the%20Jeik%20Suite" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,14 +14,17 @@
 
 ---
 
-## 🔥 代表作 / Flagship
+## 🔥 Jeik 系列 / Jeik Suite
 
-| 项目 | 简介 |
-| :--- | :--- |
-| 🦀 [**JeikCode**](https://github.com/jeikcode/JeikCode) | 终端自主 AI Coding Agent — Rust 驱动 · AST 微结构检索 · 稳定 KV Cache · 五级工具自愈 |
-| 🐾 [**JeikClaw**](https://github.com/jeikl/JeikClaw-OpenClawFixedVersion) | OpenClaw 增强修复版，针对生产瓶颈重构，专注稳定性优化 |
-| 🔌 [**dingtalk-openclaw-connector**](https://github.com/jeikl/dingtalk-openclaw-connector-fix-Community) | 钉钉 OpenClaw 渠道社区修复版，支持本地图片与企业 IM 协同 |
-| 💬 [**JeikChat**](https://github.com/jeikl/JeikChat) | 全栈知识库智能 Bot — 多模型调度路由 + 企业级文档 RAG |
+> 自研工具链：从 AI Coding Agent、网页抓取，到 IM 协同与知识库问答。
+
+| 项目 | 语言 | 简介 |
+| :--- | :--- | :--- |
+| 🦀 [**JeikCode**](https://github.com/jeikcode/JeikCode) | Rust | 终端自主 AI Coding Agent — AST 微结构检索 · 稳定 KV Cache · 五级工具自愈 |
+| 🕷️ [**Jeik-Web-Fetch**](https://github.com/jeikl/Jeik-Web-Fetch) | Python | 高性能通用网页抓取引擎，多格式 Markdown 抽取 + 反爬绕过（Firecrawl 架构重构） |
+| 🐾 [**JeikClaw**](https://github.com/jeikl/JeikClaw-OpenClawFixedVersion) | TypeScript | OpenClaw 增强修复版，针对生产瓶颈重构，专注稳定性优化 |
+| 💬 [**JeikChat**](https://github.com/jeikl/JeikChat) | Python | 全栈知识库智能 Bot — 多模型调度路由 + 企业级文档 RAG |
+| 🔌 [**@jeik/dingtalk-connector**](https://github.com/jeikl/dingtalk-openclaw-connector-fix-Community) | TypeScript | 钉钉 OpenClaw 渠道社区修复版，支持本地图片与企业 IM 协同 |
 
 ---
 
@@ -30,7 +33,7 @@
 | 项目 | 角色 | Stars |
 | :--- | :--- | :--- |
 | ⚡ [**lbjlaq/Antigravity-Manager**](https://github.com/lbjlaq/Antigravity-Manager) | Co-Creator · Tauri v2 / React / Rust | [![Stars](https://img.shields.io/github/stars/lbjlaq/Antigravity-Manager?style=flat-square&logo=github)](https://github.com/lbjlaq/Antigravity-Manager) |
-| 🌐 [**chenyme/grok2api**](https://github.com/chenyme/grok2api) | Contributor · Python / 逆向 / 网关 | [![Stars](https://img.shields.io/github/stars/chenyme/grok2api?style=flat-square&logo=github)](https://github.com/chenyme/grok2api) |
+| 🌐 [**chenyme/grok2api**](https://github.com/chenyme/grok2api) | Contributor · Go / 逆向 / 网关 | [![Stars](https://img.shields.io/github/stars/chenyme/grok2api?style=flat-square&logo=github)](https://github.com/chenyme/grok2api) |
 
 ---
 
