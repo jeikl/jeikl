@@ -29,7 +29,7 @@
 | Project | Language | Description |
 | :--- | :--- | :--- |
 | ⚡ [**lbjlaq/Antigravity-Manager**](https://github.com/lbjlaq/Antigravity-Manager) `Co-Creator` [![Stars](https://img.shields.io/github/stars/lbjlaq/Antigravity-Manager?style=flat-square&logo=github)](https://github.com/lbjlaq/Antigravity-Manager) | Rust / TS | Professional Antigravity account manager & switcher (Tauri v2 + React), one-click seamless switching |
-| 🦀 [**JeikCode**](https://github.com/jeikcode/JeikCode) | Rust | Autonomous AI coding agent for the terminal — AST micro-structure retrieval, stable KV cache, 5-level tool self-healing |
+| 🦀 [**JeikCode**](https://github.com/jeikl/JeikCode) | Rust | Autonomous AI coding agent for the terminal — AST micro-structure retrieval, stable KV cache, 5-level tool self-healing |
 | 🕷️ [**Jeik-Web-Fetch**](https://github.com/jeikl/Jeik-Web-Fetch) | Python | High-performance universal web scraper — multi-format Markdown extraction & anti-bot bypass (Firecrawl architecture rebuilt) |
 | 🐾 [**JeikClaw**](https://github.com/jeikl/JeikClaw-OpenClawFixedVersion) | TypeScript | Enhanced & fixed OpenClaw branch — rebuilt against production bottlenecks for stability |
 | 💬 [**JeikChat**](https://github.com/jeikl/JeikChat) | Python | Full-stack AI knowledge-base bot — multi-model routing & enterprise document RAG |
